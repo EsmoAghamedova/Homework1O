@@ -241,3 +241,9 @@ nav {
     width: 25%;
 
 }
+
+.icons ::before {
+    font-size: 25px;
+    vertical-align: middle;
+    text-align: center;
+}
